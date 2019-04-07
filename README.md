@@ -5,7 +5,7 @@ This application will save a file to a S3 bucket and then send a message to SQS.
 ##How To Run
 
 ###Environment Variables
-The following environment variable can be set with this application:
+The following environments variable need to be set with this application:
 
 | Property | Values |
 |----------|--------|
